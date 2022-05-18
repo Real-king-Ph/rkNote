@@ -129,3 +129,4 @@ compress_html:
 
 mermaid: false
 mermaid_theme: "base"
+math: false

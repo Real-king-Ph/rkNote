@@ -1,4 +1,6 @@
 <!-- MathJax -->
+
+{% if page.math %}
 <script>
    MathJax = {
       tex: {
@@ -9,9 +11,10 @@
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
-
+{% endif %}
 
 <!-- Waline -->
+{%- if jekyll.environment != 'development' -%}
 <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
 <style type="text/css" >
@@ -20,6 +23,7 @@
   --waline-active-color: #7253ed;
 }
 </style>
+{%- endif -%}
 
 <!-- fontawsone -->
 <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.1.1/css/all.css">

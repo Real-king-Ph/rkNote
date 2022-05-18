@@ -2,6 +2,7 @@
 layout: post
 title: test
 mermaid: true
+math: true
 ---
 
 test
