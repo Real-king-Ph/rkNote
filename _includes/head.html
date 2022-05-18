@@ -32,6 +32,12 @@
       <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.stemmer.support.js' | relative_url }}"></script>
       <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.zh.js' | relative_url }}"></script>
   {% endif %}
+
+  {% if site.mermaid != false %}
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  {% endif %}
+
+
   <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">

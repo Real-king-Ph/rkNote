@@ -115,9 +115,7 @@ plugins:
 
 kramdown:
   math_engine: mathjax
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+  syntax_highlighter: rouge
 
 compress_html:
   clippings: all
@@ -128,3 +126,6 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+mermaid: false
+mermaid_theme: "base"
