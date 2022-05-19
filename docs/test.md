@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-```mermaid
+~~~mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
       gitGraph
         commit
@@ -67,7 +67,7 @@ int main() {
         merge main
         checkout develop
         merge release
-```
+~~~
 
 中文搜索 
 
