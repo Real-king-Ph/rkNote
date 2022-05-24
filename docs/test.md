@@ -3,6 +3,7 @@ layout: post
 title: test
 mermaid: true
 math: true
+nav_order: 3
 ---
 
 test

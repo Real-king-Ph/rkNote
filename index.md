@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RK_Note
+title: Home
 nav_order: 1
 ---
 
@@ -10,12 +10,4 @@ nav_order: 1
 
 <https://real-king-ph.github.io/rkNote>
 
-Please.
-
-TODO:
-
-
-- [ ] 数据库
-- [ ] 计算机组成原理
-- [ ] 对该网站进行中文适配
 
