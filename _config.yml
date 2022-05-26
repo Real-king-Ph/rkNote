@@ -71,7 +71,7 @@ aux_links:
   "InSchoolBlog":
     - "http://wordpress.ohtoai.fun"
   "InSchoolGitea":
-    - "http://10.181.195.186:3000"
+    - "http://wordpress.ohtoai.fun:3000"
 
 
 # Makes Aux links open in a new tab. Default is false
