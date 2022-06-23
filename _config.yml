@@ -68,10 +68,6 @@ heading_anchors: true
 aux_links:
   "MyBlog":
     - "//real-king-ph.github.io"
-  "InSchoolBlog":
-    - "http://wordpress.ohtoai.fun"
-  "InSchoolGitea":
-    - "http://wordpress.ohtoai.fun:3000"
 
 
 # Makes Aux links open in a new tab. Default is false
