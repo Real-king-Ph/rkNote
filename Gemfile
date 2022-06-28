@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 gemspecs
 
 gem "webrick", "~> 1.7"
