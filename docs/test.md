@@ -2,7 +2,7 @@
 layout: post
 title: test
 mermaid: true
-math: true
+mathjax: true
 nav_order: 3
 ---
 
