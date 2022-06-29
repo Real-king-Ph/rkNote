@@ -8,7 +8,7 @@ nav_order: 3
 
 test
 
-$LATEX$
+$\LaTeX$
 
 
 ```cpp
