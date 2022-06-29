@@ -12,7 +12,7 @@ mermaid: true
 <https://real-king-ph.github.io/rkNote>
 
 
-## MyRoad Map
+## Recently Plan
 
 ```mermaid
 flowchart LR
@@ -27,7 +27,7 @@ Django & Vue.js & SQL--> web_project
 1. 计算机网络详见笔记
 2. 部分高级数据结构
 3. 计算机系统与操作系统学习南大的[课程](http://jyywiki.cn/)
-4. 计算机系统只完成PA部分(因为本校的实验课太拉！)
+4. 计算机系统主要完成PA部分(因为本校的实验课太拉！)，课程速通。
 5. Python 看看书，复习一遍
 6. Django 看文档
 7. H5 C3 JS 看网络教程+实战
