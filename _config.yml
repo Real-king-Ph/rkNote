@@ -108,6 +108,7 @@ color_scheme: nil
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 kramdown:
   math_engine: mathjax
@@ -126,3 +127,6 @@ compress_html:
 mermaid: false
 mermaid_theme: "base"
 math: false
+
+
+
