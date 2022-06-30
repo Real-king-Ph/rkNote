@@ -9,6 +9,14 @@ mermaid: true
 
 这个站点将留存我的学习笔记。
 
+[<i class="fa-solid fa-draw-polygon"></i>markup.js - 思维导图](https://markmap.js.org/){: .btn }
+
+如果需要思维导图的话，请点击上面的连接，并且点击 `Try it out`.
+
+然后在需要的文章底部，点 `Edit this page on GitHub`.
+
+最后将文章复制进去即可。
+
 <https://real-king-ph.github.io/rkNote>
 
 
