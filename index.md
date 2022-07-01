@@ -46,3 +46,4 @@ Django & Vue.js & SQL--> web_project
 
 近期动态请看 [notion](https://real-king.notion.site/2022-Summer-List-54acfddea22d4e1896361aae134cab13)(06.29后将有具体的计划)
 
+
