@@ -105,6 +105,9 @@ color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
+ga_tracking: G-L16XKC0BD0
+ga_tracking_anonymize_ip: true
+
 
 plugins:
   - jekyll-seo-tag
